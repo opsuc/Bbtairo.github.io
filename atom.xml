@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://opsuc.github.io/"/>
-  <updated>2017-06-12T11:57:13.902Z</updated>
+  <updated>2017-06-12T12:05:58.434Z</updated>
   <id>http://opsuc.github.io/</id>
   
   <author>
@@ -20,10 +20,9 @@
     <link href="http://opsuc.github.io/2017/06/12/%E8%B6%85%E8%84%B1/"/>
     <id>http://opsuc.github.io/2017/06/12/超脱/</id>
     <published>2017-06-12T11:16:38.000Z</published>
-    <updated>2017-06-12T11:57:13.902Z</updated>
+    <updated>2017-06-12T12:05:58.434Z</updated>
     
-    <content type="html"><![CDATA[<p>#超脱</p>
-<p>看电影时每一刻的感想似乎很容易就被忘记。越发觉得电影院在片尾曲时亮灯很不人性化，这是个很好的回想时间。</p>
+    <content type="html"><![CDATA[<h1 id="超脱"><a href="#超脱" class="headerlink" title="超脱"></a>超脱</h1><p>看电影时每一刻的感想似乎很容易就被忘记。越发觉得电影院在片尾曲时亮灯很不人性化，这是个很好的回想时间。</p>
 <p>这部电影的镜头很多都是近景，只拍人脸，很多都是从下往上取景，一部片子下来，不知观察到了多少人的嘴巴和牙齿。拍摄与剪辑有种模拟纪实风格的感觉。</p>
 <p>表达男主人公内心想法与情绪常使用他小时候在门、走道上徘徊的场景；他妈妈痛苦（？）的样子；以及个人的独白。不得不说，主角表演地十分出色，这么多没有台词仅用神情和其它身体语言表达的部分，没有让我感觉出戏的地方。用情节表现的部分：主角没有选择稳定的生活，对人温柔又刻意保持着一份距离，不愿讲述自己的过去，似乎对自己有一些失望，文字对他来说有很重要的意义。</p>
 <a id="more"></a>
@@ -36,8 +35,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;#超脱&lt;/p&gt;
-&lt;p&gt;看电影时每一刻的感想似乎很容易就被忘记。越发觉得电影院在片尾曲时亮灯很不人性化，这是个很好的回想时间。&lt;/p&gt;
+      &lt;h1 id=&quot;超脱&quot;&gt;&lt;a href=&quot;#超脱&quot; class=&quot;headerlink&quot; title=&quot;超脱&quot;&gt;&lt;/a&gt;超脱&lt;/h1&gt;&lt;p&gt;看电影时每一刻的感想似乎很容易就被忘记。越发觉得电影院在片尾曲时亮灯很不人性化，这是个很好的回想时间。&lt;/p&gt;
 &lt;p&gt;这部电影的镜头很多都是近景，只拍人脸，很多都是从下往上取景，一部片子下来，不知观察到了多少人的嘴巴和牙齿。拍摄与剪辑有种模拟纪实风格的感觉。&lt;/p&gt;
 &lt;p&gt;表达男主人公内心想法与情绪常使用他小时候在门、走道上徘徊的场景；他妈妈痛苦（？）的样子；以及个人的独白。不得不说，主角表演地十分出色，这么多没有台词仅用神情和其它身体语言表达的部分，没有让我感觉出戏的地方。用情节表现的部分：主角没有选择稳定的生活，对人温柔又刻意保持着一份距离，不愿讲述自己的过去，似乎对自己有一些失望，文字对他来说有很重要的意义。&lt;/p&gt;
     
@@ -55,7 +53,7 @@
     <link href="http://opsuc.github.io/2017/06/10/%E8%A7%A3%E5%86%B3%E5%8F%AA%E6%9C%89%E6%A0%87%E9%A2%98%E7%9A%84%E9%97%AE%E9%A2%98/"/>
     <id>http://opsuc.github.io/2017/06/10/解决只有标题的问题/</id>
     <published>2017-06-10T09:35:24.000Z</published>
-    <updated>2017-06-12T12:03:55.155Z</updated>
+    <updated>2017-06-12T12:06:00.000Z</updated>
     
     <content type="html"><![CDATA[<p>更改package.json<br>用npm添加plugin hexo-excerpt<br>再更改theme里的配置文件<br>至此完成</p>
 <a id="more"></a>
