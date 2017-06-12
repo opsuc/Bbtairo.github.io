@@ -55,14 +55,17 @@
     <link href="http://opsuc.github.io/2017/06/10/%E8%A7%A3%E5%86%B3%E5%8F%AA%E6%9C%89%E6%A0%87%E9%A2%98%E7%9A%84%E9%97%AE%E9%A2%98/"/>
     <id>http://opsuc.github.io/2017/06/10/解决只有标题的问题/</id>
     <published>2017-06-10T09:35:24.000Z</published>
-    <updated>2017-06-12T12:00:39.303Z</updated>
+    <updated>2017-06-12T12:03:55.155Z</updated>
     
-    <content type="html"><![CDATA[<p>更改package.json<br>用npm添加plugin hexo-excerpt<br>再更改theme里的配置文件<br>至此完成<br><a id="more"></a><br>在发了一篇长文章后发现变成了显示全文…重新安装了几次插件没有起到作用，不知道是哪里出了问题。<br>于是又把插件给卸载了。手动添加<code>&lt;!-- more --&gt;</code>来显示摘要。</p>
+    <content type="html"><![CDATA[<p>更改package.json<br>用npm添加plugin hexo-excerpt<br>再更改theme里的配置文件<br>至此完成</p>
+<a id="more"></a>
+<p>在发了一篇长文章后发现变成了显示全文…重新安装了几次插件没有起到作用，不知道是哪里出了问题。<br>于是又把插件给卸载了。手动添加<code>&lt;!-- more --&gt;</code>来显示摘要。</p>
+<p>-</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;更改package.json&lt;br&gt;用npm添加plugin hexo-excerpt&lt;br&gt;再更改theme里的配置文件&lt;br&gt;至此完成&lt;br&gt;
+      &lt;p&gt;更改package.json&lt;br&gt;用npm添加plugin hexo-excerpt&lt;br&gt;再更改theme里的配置文件&lt;br&gt;至此完成&lt;/p&gt;
     
     </summary>
     
@@ -76,14 +79,16 @@
     <link href="http://opsuc.github.io/2017/06/10/%E6%88%90%E5%8A%9F%E6%8D%A2%E4%BA%86%E4%B8%BB%E9%A2%98/"/>
     <id>http://opsuc.github.io/2017/06/10/成功换了主题/</id>
     <published>2017-06-10T06:01:56.000Z</published>
-    <updated>2017-06-12T11:58:50.943Z</updated>
+    <updated>2017-06-12T12:03:52.075Z</updated>
     
-    <content type="html"><![CDATA[<p>跟着小白教程花了一个晚上+一个上午的时间完成了这个。<br>还不会添加Tag啊各种。要学习Markdown语法。<br><a id="more"></a></p>
+    <content type="html"><![CDATA[<p>跟着小白教程花了一个晚上+一个上午的时间完成了这个。<br>还不会添加Tag啊各种。要学习Markdown语法。</p>
+<a id="more"></a>
+<p>-</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;跟着小白教程花了一个晚上+一个上午的时间完成了这个。&lt;br&gt;还不会添加Tag啊各种。要学习Markdown语法。&lt;br&gt;
+      &lt;p&gt;跟着小白教程花了一个晚上+一个上午的时间完成了这个。&lt;br&gt;还不会添加Tag啊各种。要学习Markdown语法。&lt;/p&gt;
     
     </summary>
     
