@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://opsuc.github.io/"/>
-  <updated>2017-06-12T15:22:03.879Z</updated>
+  <updated>2017-07-25T11:51:19.821Z</updated>
   <id>http://opsuc.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java学习</title>
+    <link href="http://opsuc.github.io/2017/07/25/java%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://opsuc.github.io/2017/07/25/java学习/</id>
+    <published>2017-07-25T09:41:55.000Z</published>
+    <updated>2017-07-25T11:51:19.821Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.2.1<br>Boolean类型<br>byte数据类型（c中为char)<br>string类型（类）<br>标识符中$<br>隐含转换+强制转换</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;1.2.1&lt;br&gt;Boolean类型&lt;br&gt;byte数据类型（c中为char)&lt;br&gt;string类型（类）&lt;br&gt;标识符中$&lt;br&gt;隐含转换+强制转换&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="学习记录" scheme="http://opsuc.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
   
   <entry>
     <title>学习与日常的碎碎念</title>
