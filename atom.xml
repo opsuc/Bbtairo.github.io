@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://opsuc.github.io/"/>
-  <updated>2017-07-25T11:51:19.821Z</updated>
+  <updated>2017-07-26T05:41:26.520Z</updated>
   <id>http://opsuc.github.io/</id>
   
   <author>
@@ -20,15 +20,17 @@
     <link href="http://opsuc.github.io/2017/07/25/java%E5%AD%A6%E4%B9%A0/"/>
     <id>http://opsuc.github.io/2017/07/25/java学习/</id>
     <published>2017-07-25T09:41:55.000Z</published>
-    <updated>2017-07-25T11:51:19.821Z</updated>
+    <updated>2017-07-26T05:41:26.520Z</updated>
     
-    <content type="html"><![CDATA[<p>1.2.1<br>Boolean类型<br>byte数据类型（c中为char)<br>string类型（类）<br>标识符中$<br>隐含转换+强制转换</p>
+    <content type="html"><![CDATA[<p>1.2<br>Boolean类型<br>byte数据类型（c中为char)<br>string类型（类）<br>标识符中$<br>隐含转换+强制转换</p>
+<p>1.3<br>数组是对象 动态初始化<br>赋值给 Object类 对象<br>可调用 Object类 方法</p>
+<p>1.4<br>加强for循环</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;1.2.1&lt;br&gt;Boolean类型&lt;br&gt;byte数据类型（c中为char)&lt;br&gt;string类型（类）&lt;br&gt;标识符中$&lt;br&gt;隐含转换+强制转换&lt;/p&gt;
-
+      &lt;p&gt;1.2&lt;br&gt;Boolean类型&lt;br&gt;byte数据类型（c中为char)&lt;br&gt;string类型（类）&lt;br&gt;标识符中$&lt;br&gt;隐含转换+强制转换&lt;/p&gt;
+&lt;p&gt;1.3&lt;br&gt;数组是对象 动态初始化&lt;br&gt;赋值给 Object类 对象&lt;br&gt;可调用 Object类 方法&lt;
     
     </summary>
     
@@ -65,9 +67,9 @@
     </summary>
     
     
-      <category term="life" scheme="http://opsuc.github.io/tags/life/"/>
-    
       <category term="观影" scheme="http://opsuc.github.io/tags/%E8%A7%82%E5%BD%B1/"/>
+    
+      <category term="life" scheme="http://opsuc.github.io/tags/life/"/>
     
   </entry>
   
